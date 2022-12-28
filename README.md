@@ -1,7 +1,7 @@
 # AilProtect
 a code virtualizer based on angr
 
-currently, only arch x64 is supported.
+currently, only PE x64 is supported.
 
 ## how to use
 modify the the call of function process_x64 in processor.py
