@@ -502,6 +502,3 @@ class CodeConverter:
         
 
 
-#CodeConverter('C:\\Users\\rimao\\Desktop\\project\\runtime\\DereVm.exe').process(0x408344)
-
-
